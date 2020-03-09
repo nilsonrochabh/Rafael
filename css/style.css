@@ -1,0 +1,43 @@
+#icones{
+  position: relative;
+  top: 50px;
+
+}
+i{
+  padding-left: 20px;
+}
+
+#melhoridade{
+  background-color: #3d401a !important;
+}
+#empreendedorismo{
+  background-color: #f39200 !important;
+}
+#publicacoes{
+  background-color: tomato !important;
+}
+#cidade{
+  background-color:brown !important;
+}
+#juventude{
+  background-color:crimson !important;
+}
+#midia{
+  background-color:#863a20 !important;
+}
+#index{
+  background-color: maroon !important;
+}
+
+#opniao{
+  background-color:#ac5c24 !important;
+}
+.nav-link {
+  color: white !important;
+  }
+  #textos{
+    color: white !important;
+  }
+ 
+
+  
